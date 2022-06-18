@@ -1,3 +1,16 @@
-#navbar{
+body{
+  background: #E5E5E5;
+  background-image: url("../images/bg.png"); /* fallback */
+  background-image: url("../images/bg.png")  center center no-repeat, linear-gradient(#E5E5E5 , #e8e2e2, #f7f3f3); /* W3C */
+}
+#form , #final{
+    background: #E5E5E5;
+}
+#navbar , #footer{
     background-color: #33A0D9;
+}
+
+#middle{
+    background: #E5E5E5;
+background-position: right, left; 
 }
