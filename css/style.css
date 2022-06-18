@@ -6,6 +6,9 @@ body{
 #form , #final{
     background: #E5E5E5;
 }
+#final {
+    display: none;
+}
 #navbar , #footer{
     background-color: #33A0D9;
 }
